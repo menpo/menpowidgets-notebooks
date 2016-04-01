@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+menpowidgets-notebooks.iml
+.idea/*
+node_modules
